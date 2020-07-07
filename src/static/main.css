@@ -1,0 +1,30 @@
+html,
+body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	/* overflow-x: hidden */
+}
+
+#header {
+	height: 100vh;
+	width: 100vw;
+}
+#pricing {
+	height: 100vh;
+	width: 100vw;
+}
+
+.card-img-top {
+	max-width: 400px;
+}
+
+.coaches {
+	height: 100vh;
+	width: 100vw;
+}
+
+#registerform {
+	height: 100vh;
+	width: 100vw;
+}
